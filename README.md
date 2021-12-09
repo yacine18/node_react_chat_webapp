@@ -21,8 +21,6 @@ Also, to run frontend, run `cd client` and `npm start`
 
 the frontend running on `http://localhost:3000` and backend running on `http://localhost:3001`
 
-the frontend running on `http://localhost:3000` and backend running on `http://localhost:3001`
-
 ## Screen shots
 
 ![image](https://user-images.githubusercontent.com/44382346/145387938-05e53def-6232-4c16-9d0e-46bf1d10326f.png)
